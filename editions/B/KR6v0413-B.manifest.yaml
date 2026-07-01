@@ -1,0 +1,456 @@
+canonical_identifier: bkk:krp/KR6v0413/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0413/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新校定的敦煌寫本神會和尚遺著兩種
+  identifiers:
+    krp: KR6v0413
+    cbeta: B25n0142
+    cbeta_old_id: B25n0142
+    authorityid: CA0006227
+    json_key: B0142
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B25/B25n0142.xml
+    old_id: B25n0142
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0413_001-B.yaml, hash: 'sha256:1d53e1d114e27aa4ad20160ee0ef02c6d2d9e01e912b5aceda4bfb7e9ef8ca77'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0413_001-B.markers.yaml, hash: 'sha256:b933ca3ed8b6eeea4744fb18b446312212c6bde517a0131121fb28630920d4d3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 36310
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-2
+    span:
+    - body
+    - 148
+    - 148
+  label: 一、南陽和上頓教解脫禪門直了性壇語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-3
+    span:
+    - body
+    - 164
+    - 164
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-4
+    span:
+    - body
+    - 164
+    - 164
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-5
+    span:
+    - body
+    - 620
+    - 620
+  label: （一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-6
+    span:
+    - body
+    - 1549
+    - 1549
+  label: （二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-7
+    span:
+    - body
+    - 2262
+    - 2262
+  label: （三）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-8
+    span:
+    - body
+    - 2924
+    - 2924
+  label: （四）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-9
+    span:
+    - body
+    - 4101
+    - 4101
+  label: （五）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-10
+    span:
+    - body
+    - 4673
+    - 4673
+  label: （六）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-11
+    span:
+    - body
+    - 5337
+    - 5337
+  label: （七）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-12
+    span:
+    - body
+    - 6411
+    - 6411
+  label: 附錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-13
+    span:
+    - body
+    - 6429
+    - 6429
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-14
+    span:
+    - body
+    - 6794
+    - 6794
+  label: 南宗定邪正「五更轉」
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-15
+    span:
+    - body
+    - 7221
+    - 7221
+  label: 二、菩提達摩南宗定是非論上卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-16
+    span:
+    - body
+    - 9821
+    - 9821
+  label: 三、菩提達摩南宗定是非論下卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-17
+    span:
+    - body
+    - 20280
+    - 20280
+  label: 四、校寫後記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-18
+    span:
+    - body
+    - 20285
+    - 20285
+  label: （一）校寫「南陽和上頓教解脫禪門直了性壇語」後記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-19
+    span:
+    - body
+    - 23418
+    - 23418
+  label: （二）校寫「菩提達摩南宗定是非論」後記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-20
+    span:
+    - body
+    - 30735
+    - 30735
+  label: （三）附記神會和尚的生卒年的新考正
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-21
+    span:
+    - body
+    - 32156
+    - 32156
+  label: （四）總計三十多年來陸續出現的神會遺著
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-22
+    span:
+    - body
+    - 32199
+    - 32199
+  label: 語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-23
+    span:
+    - body
+    - 32199
+    - 32199
+  label: （一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-24
+    span:
+    - body
+    - 32220
+    - 32220
+  label: （甲）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-25
+    span:
+    - body
+    - 32282
+    - 32282
+  label: （乙）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-26
+    span:
+    - body
+    - 32283
+    - 32283
+  label: （A）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-27
+    span:
+    - body
+    - 32392
+    - 32392
+  label: （B）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-28
+    span:
+    - body
+    - 33595
+    - 33595
+  label: 菩提達摩南宗定是非論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-29
+    span:
+    - body
+    - 33595
+    - 33595
+  label: （二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-30
+    span:
+    - body
+    - 33624
+    - 33624
+  label: （甲）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-31
+    span:
+    - body
+    - 33692
+    - 33692
+  label: （乙）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-32
+    span:
+    - body
+    - 33762
+    - 33762
+  label: （丙）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-33
+    span:
+    - body
+    - 33970
+    - 33970
+  label: 南陽和尚頓教解脫禪門直了性壇語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-34
+    span:
+    - body
+    - 33970
+    - 33970
+  label: （三）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-35
+    span:
+    - body
+    - 34003
+    - 34003
+  label: （甲）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-36
+    span:
+    - body
+    - 34124
+    - 34124
+  label: （乙）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-37
+    span:
+    - body
+    - 34276
+    - 34276
+  label: 頓悟無心般若頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-38
+    span:
+    - body
+    - 34276
+    - 34276
+  label: （四）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-39
+    span:
+    - body
+    - 34298
+    - 34298
+  label: （甲）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-40
+    span:
+    - body
+    - 34333
+    - 34333
+  label: （乙）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-41
+    span:
+    - body
+    - 34454
+    - 34454
+  label: （丙）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0413_B_001-mulu-42
+    span:
+    - body
+    - 35593
+    - 35593
+  label: 附錄：敦煌寫本「頓悟無生般若頌」的全文
+  type: mulu
+  level: 1
+hash: sha256:a99bf7b9911ff43e6313d2ff4ae3a3f05f97ecbffc22b2bea335b792ec7f1af7
