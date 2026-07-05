@@ -18,9 +18,9 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 1, filename: KR6v0413_001.yaml, hash: 'sha256:274c86203ceb949017590d3cef2ba059d225f9f4bfef306e0f3a365f120e270f'}
+  - {seq: 1, filename: KR6v0413_001.yaml, hash: 'sha256:1d53e1d114e27aa4ad20160ee0ef02c6d2d9e01e912b5aceda4bfb7e9ef8ca77'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0413_001.markers.yaml, hash: 'sha256:f238053d75d74e799ee80f22478e3003a334aa06bc8d7398eb6f5dcdacded7f0'}
+  - {seq: 1, role: markers, filename: assets/KR6v0413_001.markers.yaml, hash: 'sha256:2577e7c66c753e223238ebd9f30760baed58a1d8814d5a5ec091f3707f3bae4f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -452,7 +452,4 @@ table_of_contents:
   label: 附錄：敦煌寫本「頓悟無生般若頌」的全文
   type: mulu
   level: 1
-hash: sha256:a0cea402fbe97e384ce71d4bce894d508e6e4c093a624532e1ae76eb180d2178
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3697b8b8b75d35a798061359f547cb6a48a999445bbbd7f0b5979aed7d325d04
